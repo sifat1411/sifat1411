@@ -32,7 +32,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sifat_1411" height="30" width="40" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/sifat14pjrr/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    <img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
 
