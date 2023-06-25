@@ -13,12 +13,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sifathora141102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sifathora141102" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sifat-hora-b4372a204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/sifat-hora-b4372a204" height="30" width="40" /></a>
-<a href="https://instagram.com/_.its_sifxtttt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.its_sifxtttt_" height="30" width="40" /></a> 
-<a href="mailto:sifat14112002@gmail.com" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="sifat14112002@gmail.com" height="30" width="40" />
+  <a href="https://twitter.com/sifathora141102" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sifathora141102" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/sifat-hora-b4372a204/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/sifat-hora-b4372a204" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_.its_sifxtttt_" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.its_sifxtttt_" height="30" width="40" />
+  </a>
+  <a href="mailto:sifat14112002@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
+  </a>
 </p>
+
 <h3> My Coding Profile </h3>
 <p>
 <a href="https://www.leetcode.com/sifat_1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sifat_1411" height="30" width="40" /></a>
