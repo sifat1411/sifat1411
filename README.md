@@ -1,10 +1,11 @@
-## Hi there! I'm [S Hora](https://www.linkedin.com/in/sahej-hora-5497171b0/)👋
+## Hi there! I'm [Sifat Hora](https://www.linkedin.com/in/sifat-hora-b4372a204/)👋
 
 ## Introduction 🚀
-I'm Sahej, a full-stack web developer👨‍💻 with a strong background in Java, JavaScript, HTML, CSS, and various databases such as MongoDB and MySQL. 
+"Passionate data scientist and machine learning engineer with expertise in developing and deploying advanced analytics solutions. Skilled in data preprocessing, and building predictive models using various machine learning algorithms. Experienced in leveraging statistical analysis and data visualization to extract insights and drive data-informed decision-making. Dedicated to solving complex problems and optimizing business outcomes through the power of data."
 
-## Working on Live Project [<img src="http://invoices4us.com/images/Invoices4Us-logos_dark.png" alt="Invoice4us Logo" width="75">](http://invoices4us.com/)
-I am currently working on a live project called Invoices4us. It is an invoicing application that simplifies the process of creating and managing invoices. You can check out the project at [Invoices4us](http://invoices4us.com/).
+
+
+
 
 ## Technologies 🛠
 
