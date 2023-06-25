@@ -31,7 +31,7 @@
 
 ## Resume 📄
 
-You can find my resume [here](https://drive.google.com/file/d/1bJzxPaE1Ty-UkgRfYkt8EoOSgv6IqztS/view?usp=sharing).
+You can find my resume [here](https://drive.google.com/file/d/19M56FED3_DOCvWr1ycMGbKmHIXDWV12E/view?usp=sharing).
 
 ## Contact Me 📞
 
