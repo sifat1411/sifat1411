@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sifat14112002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19M56FED3_DOCvWr1ycMGbKmHIXDWV12E/view?usp=sharing](https://drive.google.com/file/d/19M56FED3_DOCvWr1ycMGbKmHIXDWV12E/view?usp=sharing)
+- 📄You can find me resume [here](https://drive.google.com/file/d/19M56FED3_DOCvWr1ycMGbKmHIXDWV12E/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
