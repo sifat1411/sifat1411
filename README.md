@@ -31,8 +31,8 @@
   <a href="https://www.leetcode.com/sifat_1411" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sifat_1411" height="30" width="40" />
   </a>
-  <a href="https://www.geeksforgeeks.org/profile.php?id=your_geeksforgeeks_id" target="_blank">
-    <img align="center" src="https://example.com/geeksforgeeks-icon.png" alt="GeeksforGeeks" height="30" width="40" />
+  <a href="https://auth.geeksforgeeks.org/user/sifat14pjrr/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
 
