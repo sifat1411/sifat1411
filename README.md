@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Deep Learning with Keras and about Decenteralized Applications.**
 
-- 📫 How to reach me **sifat14112002@gmail.com**
-
 - 📄You can find my resume [here](https://drive.google.com/file/d/19M56FED3_DOCvWr1ycMGbKmHIXDWV12E/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
