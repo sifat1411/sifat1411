@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat1411&label=Profile%20views&color=0e75b6&style=flat" alt="sifat1411" /> </p>
 
-- 🔭 I’m currently working on[<img src="http://invoices4us.com/images/Invoices4Us-logos_dark.png" alt="Invoice4us Logo" width="75">](http://invoices4us.com/)
-I am currently working on a live project called Invoices4us. It is an invoicing application that simplifies the process of creating and managing invoices. You can check out the project at [Invoices4us](http://invoices4us.com/).
-
-
 - 🌱 I’m currently learning **Deep Learning with Keras and about Decenteralized Applications.**
 
 - 📫 How to reach me **sifat14112002@gmail.com**
